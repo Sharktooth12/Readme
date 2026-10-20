@@ -73,7 +73,7 @@ I do the same work for clients that I do on my own systems.
 - **Repair & upgrades:** everyday fixes for your devices
 - **NAS & self-hosting setup:** full deployments, including the
   Pi-hole + DuckDNS stack behind Pi-Vault
-- **Private DNS & ad blocking:** network-wide with Pi-hole
+
 
 👉 [See the full service menu](https://jrcvault.duckdns.org/services.html)
 
