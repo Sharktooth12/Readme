@@ -48,7 +48,7 @@ with shared storage and personal drives.
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Recent Projects
 
 ### 💡 [Led-app-controller](https://github.com/Sharktooth12/Led-app-controller)
 
@@ -71,8 +71,7 @@ Repair, upgrade, and self-hosting work, priced by the job, not the hour.
 I do the same work for clients that I do on my own systems.
 
 - **Repair & upgrades:** everyday fixes for your devices
-- **NAS & self-hosting setup:** full deployments, including the
-  Pi-hole + DuckDNS stack behind Pi-Vault
+- **NAS & self-hosting setup** 
 
 
 👉 [See the full service menu](https://jrcvault.duckdns.org/services.html)
