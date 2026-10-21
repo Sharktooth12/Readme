@@ -1,4 +1,4 @@
-<h1 align="center">JRC Inc.</h1>
+<h1 align="center">JRC LLC.</h1>
 <p align="center">
   <b>Hardware & software builder focused on privacy and data ownership</b><br>
   Founder, <a href="https://jrcvault.duckdns.org">JRC Vault</a>
